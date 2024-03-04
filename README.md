@@ -52,7 +52,6 @@ understanding of techniques geared toward optimum user experience.
 
 ## Certifications
 - Cisco Cybersecurity Essentials, Cisco
-## Certifications
 - Fundamentals of Digital Marketing from Google Digital Garage, Google Skillshop
 
 ---
